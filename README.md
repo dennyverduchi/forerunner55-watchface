@@ -18,6 +18,7 @@ https://forums.garmin.com/developer/connect-iq/b/news-announcements/posts/change
     - Select Gesture to turn on the backlight by raising and turning your arm to look at your wrist.
     - Select Timeout to set the length of time before the backlight turns off.
     - Select Brightness to set the brightness level of the backlight.
+
 https://www8.garmin.com/manuals/webhelp/GUID-3A791586-B59F-4B37-B9C5-5A41F8C6BE0B/EN-US/GUID-C9A5E731-8826-4AD0-8087-F6E2EAC625D6.html
   
 ![test](https://github.com/user-attachments/assets/836b1ca3-0925-439b-addb-9d523858345f)
