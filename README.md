@@ -1,7 +1,9 @@
 Important notes:
 1. Always Active
   MIP watch faces by default update once a minute. High-power mode does allow drawing seconds or a second hand for a period, but sometimes the user wants that kind of information available the moment their eyes focus on the watch. Always-active watch faces can perform a partial update of the screen every second. The update must operate under a 20-millisecond time frame, which does not allow updating the whole screen but can allow for an update on a small portion. For example, the seconds area of this watch face (highlighted in pink) could be updated once a second:
+
 ![partial-update png-320x240](https://github.com/user-attachments/assets/b7075e6d-098a-4c57-a384-41656830b3cf)
+
 https://forums.garmin.com/developer/connect-iq/b/news-announcements/posts/changes-to-watch-face-low--and-high-power-modes
 3. Changing the Backlight Settings
   - From the watch face, hold UP.
