@@ -5,7 +5,8 @@ Important notes:
 ![partial-update png-320x240](https://github.com/user-attachments/assets/b7075e6d-098a-4c57-a384-41656830b3cf)
 
 https://forums.garmin.com/developer/connect-iq/b/news-announcements/posts/changes-to-watch-face-low--and-high-power-modes
-3. Changing the Backlight Settings
+
+2. Changing the Backlight Settings
   - From the watch face, hold UP.
   - Select Menu symbol > System > Backlight.
   - Select an option:
